@@ -66,7 +66,7 @@ We were able to implement the following extensions once our MVP was achieved:
   6. Last command I promise! 
   <br/>
   `npm start`
-  ### **Tada!** 🎉
+  ## **Tada!** 🎉
 
 ## Future extensions we would have liked to include 
 Whilst we are proud of the app we produced in the short space of time we had. These are some implementations we would have loved to include:
